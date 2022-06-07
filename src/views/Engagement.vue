@@ -20,7 +20,7 @@
     </h2>
     <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
         <div class="accordion-body">
-            Please, enter content here.      
+            The purpose of the Intercultural Education initiative of Neeley Complete is to introduce students to cross-cultural competence and immerse them in global competencies to create impactful interactions with the world around them.      
         </div>
     </div>
   </div>
@@ -56,7 +56,7 @@
         </h2>
         <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
             <div class="accordion-body">
-                Please, enter content here.        
+                The goal of the Competitions and National Conferences initiative of Neeley Complete is to present students with various opportunities to explore and engage in areas beyond their field or interest. Through these experiences, students will have the ability to evolve professionally by networking, expanding their knowledge, presenting their ideas, and gaining new perspectives.        
             </div>
         </div>
     </div>
