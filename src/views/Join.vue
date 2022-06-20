@@ -1,5 +1,5 @@
 <template>
-
+    <div class="join">
     <!-- Accordion -->
     <div class="accordion" id="accordionPanelsStayOpenExample">
             <div class="accordion-item">
@@ -65,6 +65,7 @@
         </div>
     </div>
     <!--||||||||||||||||||||||||||-->
+</div>
 </template>
 
 <script>
@@ -92,7 +93,10 @@ export default{
 
 
 <style scoped lang="scss">
-
+.join{
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
 .accordion-header, .accordion-header .btn {
     font-size: 1.313rem;
     font-family: futura-pt, Arial, Sans-Serif;

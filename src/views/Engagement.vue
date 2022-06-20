@@ -1,4 +1,5 @@
 <template>
+  <div class="engagement">
   <div class="accordion" id="accordionPanelsStayOpenExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -69,10 +70,16 @@
     </div>
   </div>
 </div>
+</div>
 </template>
 
 <style scoped lang="scss">
-  
+
+.engagement{
+  margin-right: 4rem;
+  margin-left: 4rem;
+}
+
 .accordion-button{
   color: rgb(0, 0, 0);
   background-color: rgb(255, 255, 255);

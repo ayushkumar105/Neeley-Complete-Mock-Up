@@ -24,7 +24,11 @@
   </div>
 <!--|||||||||||||||-->
 
-
+<div class="home-title">
+  <h2 >
+    <router-link to="/home" style="color:goldenrod; text-decoration: none;">Neeley Complete</router-link>
+  </h2>
+</div>
 
 
 <!--Navbar-->
@@ -88,7 +92,13 @@ img{
   height: 50%;
 }
 
-
+.home-title{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  background-color: #4c0c95;
+  text-decoration: none;
+}
 
 .nav-link {
             color: #4c0c95;
