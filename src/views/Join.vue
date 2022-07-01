@@ -1,70 +1,123 @@
 <template>
     <div class="join">
     <!-- Accordion -->
-    <div class="accordion" id="accordionPanelsStayOpenExample">
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="panelsStayOpen-headingOne">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-                        APPLICATION 
-                    </button>
-                </h2>
-                <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
-                    <div class="accordion-body">
-                        <p>There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out. The intent-to-participate form may be completed at any time throughout the individual's enrollment at Neeley, but no later than 4 weeks prior to graduation. On this form, students identify the four engagement areas they intend to complete, and those areas may be completed at any point, but no later than 4 weeks prior to graduation.</p>
-                        <div class="row">
-                            <div class="col-sm-5">
-                                <div class="card" style="width: 18rem;">
-                                <img class="card-img-top" src="https://accessibility.tcu.edu/wp-content/uploads/2018/01/TCU-mark.jpg" alt="Card image cap">
-                                <div class="card-body">
-                                    <h5 class="card-title">JOIN US TODAY!</h5>
-                                    <p class="card-text">You can join us by simply filling out the intent to participate form.</p>
-                                    <a href="#" class="btn btn-primary">Intent to participate</a>
-                                </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-5">
-                                <div class="card" style="width: 18rem;">
-                                <img class="card-img-top" src="https://accessibility.tcu.edu/wp-content/uploads/2018/01/TCU-mark.jpg" alt="Card image cap">
-                                <div class="card-body">
-                                    <h5 class="card-title">DEADLINES</h5>
-                                    <p class="card-text">Stay upto date with synthesis reflection deadlines.</p>
-                                    <a href="#" class="btn btn-primary">Deadline Page</a>
-                                </div>
-                            </div>
+    
+    <!--||||||||||||||||||||||||||-->
+
+    <div class="steps">
+        <h1 style="color:#4c0c95;">HOW IT WORKS</h1>
+
+        <div class="demo2" style="margin-top:4rem">
+                <div class="card mb-3 border-0" style="max-width: 1200px; margin-left: auto; margin-right: auto;text-align: left;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="https://www.tcu.edu/_resources/images/Male-studying430x260.jpg" class="card-img" alt="..." style="max-height:15rem">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body1" >
+                            <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">MAKE A PLAN</h3>
+                            <p class="card-text">When will you participate in your selected engagement areas? Have you already started one or more?</p>
                         </div>
                     </div>
                 </div>
             </div>
-            
-            <div class="accordion-item">
-                    <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                            MENTORSHIP
-                        </button>
-                    </h2>
-                <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
-                    <div class="accordion-body">
-                        <p>Neeley Complete students are in control of their engagement, and will choose a staff member, faculty member, or Neeley Senior mentor who can help them process and reflect on how their experiences are shaping them as a future business leader. </p>
+        </div>
+
+        <div class="demo2" style="margin-top:4rem">
+                <div class="card mb-3 border-0" style="max-width: 1200px; margin-left: auto; margin-right: auto;text-align: left;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="https://medicine.uiowa.edu/sites/default/files/IanMcElree.jpg" class="card-img" alt="..." style="max-height:15rem">
                     </div>
-                </div>
-            </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-                        SYNTHESIS REFLECTION
-                    </button>
-                </h2>
-                <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
-                    <div class="accordion-body">
-                        <p>Upon completion of the four areas of engagement, Neeley Complete students will present their synthesis and reflection with their mentor. The form of the presentation is encouraged to be done based on the individual's interests and skills: it may be done in the form of a reflection paper, a video journal, a picture collage, a TedTalk recording, an online portfolio or website, or any other medium that the student desires to express themselves and their experiences through.</p>
-                        <p style="margin-top: 1rem; margin-bottom: 1rem; font-weight: bold;">If you have already completed your synthesis and reflection presentation, then you can upload it down below.</p>
-                        <input ref="file" v-on:change="handleFileUpload()"  type="file">
+                    <div class="col-md-8">
+                        <div class="card-body1" >
+                            <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">RESEARCH</h3>
+                            <p class="card-text">Which of the Engagement Areas are the best fit for your major, interests and future career? Where can you access the experiences?</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+
+        <div class="demo2" style="margin-top:4rem">
+                <div class="card mb-3 border-0" style="max-width: 1200px; margin-left: auto; margin-right: auto;text-align: left;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="../assets/MENTOR1.jpg" class="card-img" alt="..." style="max-height:15rem">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body1" >
+                            <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">SELECT A MENTOR</h3>
+                            <p class="card-text">Choose a staff member, faculty member, or Neeley Senior mentor who can help you process and reflect on how your experiences are shaping you as a future business leader.</p>
+                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="demo2" style="margin-top:4rem">
+                <div class="card mb-3 border-0" style="max-width: 1200px; margin-left: auto; margin-right: auto;text-align: left;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="https://admissions.tcu.edu/images/sidebar-programs-image.jpg" class="card-img" alt="..." style="max-height:15rem">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body1" >
+                            <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">ENGAGEMENT AREAS</h3>
+                            <p class="card-text">To earn the Neeley Complete distinction, you need to complete four different areas of engagement that contribute to distinct categories within Leadership, Employer-Based Work, Research, Intercultural Education, Service and Competitions and National Conference.</p>
+                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="demo2" style="margin-top:4rem">
+                <div class="card mb-3 border-0" style="max-width: 1200px; margin-left: auto; margin-right: auto;text-align: left;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="https://magazine.tcu.edu/wp-content/uploads/2020/05/TCU_ReeseBrown_06-500x333.jpg" class="card-img" alt="..." style="max-height:15rem">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body1" >
+                            <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">WRITE YOUR SYNTHESIS REFLECTION</h3>
+                            <p class="card-text">Upon completion of the four areas of engagement, Neeley Complete students will present their synthesis and reflection with their mentor. </p>
+                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+
+                            
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="demo2" style="margin-top:4rem">
+                <div class="card mb-3 border-0" style="max-width: 1200px; margin-left: auto; margin-right: auto;text-align: left;">
+                <div class="row no-gutters">
+                    <div class="col-md-4">
+                        <img src="https://admissions.tcu.edu/images/groupsmiles.jpg" class="card-img" alt="..." style="max-height:15rem">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body1" >
+                            <h3 class="card-title" style="color: #4c0c95; margin-bottom: 2rem;">JOIN US TODAY!</h3>
+                            <p class="card-text">There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out.</p>
+                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Join Now</button>
+
+                            
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
-    <!--||||||||||||||||||||||||||-->
+
+
 </div>
 </template>
 
@@ -93,10 +146,18 @@ export default{
 
 
 <style scoped lang="scss">
+
+.steps{
+    margin-top: 4rem;
+    text-align: center;
+}
+
 .join{
     margin-left: 4rem;
     margin-right: 4rem;
 }
+
+
 .accordion-header, .accordion-header .btn {
     font-size: 1.313rem;
     font-family: futura-pt, Arial, Sans-Serif;
@@ -121,48 +182,11 @@ export default{
 
 
 
-a.btn {
-    text-decoration: none;
-}
 .component-top-margin a, .component-top-margin a:hover, .lead a, .body-text a, .body-text a:hover, .sidebar a, .sidebar a:hover {
     text-decoration: underline;
 }
-.btn {
-    text-transform: uppercase;
-    padding: 0.625rem 1.875rem;
-}
-.btn {
-    font-weight: bold;
-    text-decoration: none;
-}
-.btn {
-    font-size: 0.875rem;
-}
-.btn-primary {
-    color: #212529;
-    background-color: #fed277;
-    border-color: #fed277;
-    box-shadow: inset 0 1px 0 rgb(255 255 255 / 15%), 0 1px 1px rgb(0 0 0 / 8%);
-}
-.btn {
-    display: inline-block;
-    font-weight: 400;
-    color: #4d4d4a;
-    text-align: center;
-    vertical-align: middle;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    background-color: transparent;
-    border: 1px solid transparent;
-    padding: 0.375rem 0.75rem;
-    font-size: 1rem;
-    line-height: 1.5;
-    border-radius: 0;
-    transition: color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
-}
+
+
 a {
     color: #4d1979;
     /* text-decoration: underline; */

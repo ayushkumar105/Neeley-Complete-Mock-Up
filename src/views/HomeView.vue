@@ -123,7 +123,7 @@
               <h5 class="card-title">Payton Cranford</h5>
               <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
                 <p style="margin-bottom:0rem">Peer Advisor</p>
-                <p>Major: Businessheroku</p>
+                <p>Major: Business</p>
               </p>
               <p class="card-text"> Schedule an appointment via 
                 <a href="#" style="color:#fed277">Handshake</a>

@@ -3,7 +3,7 @@
   <div class="accordion" id="accordionPanelsStayOpenExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="panelsStayOpen-headingOne">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
         WHAT IS NEELEY COMPLETE? 
       </button>
     </h2>
@@ -73,6 +73,71 @@
     </div>
 
 
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+          APPLICATION 
+        </button>
+      </h2>
+        <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
+          <div class="accordion-body">
+            <p>There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out. The intent-to-participate form may be completed at any time throughout the individual's enrollment at Neeley, but no later than 4 weeks prior to graduation. On this form, students identify the four engagement areas they intend to complete, and those areas may be completed at any point, but no later than 4 weeks prior to graduation.</p>
+                <div class="row" style="margin-top: 4rem; margin-bottom: 1rem; margin-left: 18rem; margin-right: auto; align-content: center;">
+                  <div class="col-sm-5">
+                    <div class="card border-0" style="width: 18rem; background-color: #4c0c95; height:21rem;">
+                      <img class="card-img-top" src="https://admissions.tcu.edu/images/groupsmiles.jpg" alt="Card image cap">
+                        <div class="card-body" style="color:aliceblue">
+                            <h5 class="card-title">JOIN US TODAY!</h5>
+                              <p class="card-text">You can join us by simply filling out the intent to participate form.</p>
+                                <a href="#" class="btn btn-primary" style="background-color:goldenrod; color:black">Intent to participate</a>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-5">
+                    <div class="card border-0" style="width: 18rem; background-color: #4c0c95; height:21rem;">
+                      <img class="card-img-top" src="https://alumni.tcu.edu/new/image/web-page-photos/cropped-chapter-photos/Leadership-Awards_cropped.jpg" alt="Card image cap">
+                        <div class="card-body" style="color:aliceblue">
+                          <h5 class="card-title">DEADLINES</h5>
+                            <p class="card-text">Stay upto date on the synthesis reflection deadline.</p>
+                              <a href="#" class="btn btn-primary" style="background-color:goldenrod; color:black">Deadlines</a>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="accordion-item">
+                    <h2 class="accordion-header" id="panelsStayOpen-headingEight">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                            MENTORSHIP
+                        </button>
+                    </h2>
+                <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEight">
+                    <div class="accordion-body">
+                        <p>Neeley Complete students are in control of their engagement, and will choose a staff member, faculty member, or Neeley Senior mentor who can help them process and reflect on how their experiences are shaping them as a future business leader. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="panelsStayOpen-headingNine">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseNine" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                        SYNTHESIS REFLECTION
+                    </button>
+                </h2>
+                <div id="panelsStayOpen-collapseNine" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingNine">
+                    <div class="accordion-body">
+                        <p>Upon completion of the four areas of engagement, Neeley Complete students will present their synthesis and reflection with their mentor. The form of the presentation is encouraged to be done based on the individual's interests and skills: it may be done in the form of a reflection paper, a video journal, a picture collage, a TedTalk recording, an online portfolio or website, or any other medium that the student desires to express themselves and their experiences through. Need more help with your synthesis reflection? Check out the 
+                          <a href="../assets/REFLECTION.pdf" style="color:#4c0c95">synthesis reflection guide.</a>
+                          
+                        </p>
+                        <p style="margin-top: 1rem; margin-bottom: 1rem; font-weight: bold;">If you have already completed your synthesis and reflection presentation, then you can upload it down below.</p>
+                        <input ref="file" v-on:change="handleFileUpload()"  type="file">
+                    </div>
+                </div>
+            </div>
+        
+    </div>
 
 </div>
 
