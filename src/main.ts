@@ -7,6 +7,7 @@ import FontAwesomeIcon from "@/plugins/font-awesome.js";
 import Vue from 'vue'
 import VueAnimateOnScroll from 'vue-animate-onscroll';
 
+
 import { Directive, DirectiveBinding, VNode } from 'vue';
 export const appear: Directive = {
   beforeMount(element: HTMLElement) {

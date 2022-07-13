@@ -19,6 +19,7 @@
     "vue-animate-onscroll": "^1.0.8",
     "vue-class-component": "^8.0.0-0",
     "vue-router": "^4.0.3",
+    "vue-sidebar-menu": "^5.2.4",
     "vuex": "^4.0.0"
   },
   "devDependencies": {

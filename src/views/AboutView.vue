@@ -1,41 +1,54 @@
 <template>
 <div class="about">
-  <div class="accordion" id="accordionPanelsStayOpenExample">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="panelsStayOpen-headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-        WHAT IS NEELEY COMPLETE? 
-      </button>
-    </h2>
-    <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
-      <div class="accordion-body">
-        Neeley Complete is a program designed to encourage and guide students to a well-rounded and experiential Neeley education. Neeley Complete includes six areas of potential engagement: Research, Intercultural Education, Leadership, Service, Competitions and National Conferences, and Employer-Based Work. When students complete 4 of the 6 areas of engagement with a culminating reflection, they will have the opportunity to receive a sash or cord of recognition to wear during graduation, as well as an invitation to a graduation social and networking event with other Neeley Complete students.
-      </div>
+  
+  
+  
+
+  
+
+<div class="container">
+  <div class="row justify-content-md-center">
+    <div class="col" style="padding:0;">
+
+    <nav style="--bs-breadcrumb-divider: '>';margin-left:2rem;" aria-label="breadcrumb" >
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#" style="text-decoration:none;color:#4c0c95;font-weight: bold;">Home</a></li>
+      <li class="breadcrumb-item active" aria-current="page" style="color:#4c0c95; font-weight: bold;">About Us</li>
+    </ol>
+  </nav>  
+      
+    <div class="intro" style="margin-left:2rem;margin-right: 1rem;">
+      <p style="color:#6c757d">
+        <h5 style="color:#6c757d">
+          Neeley Complete is a program designed to encourage and guide students to a well-rounded and experiential Neeley education. Neeley Complete includes six areas of potential engagement: Research, Intercultural Education, Leadership, Service, Competitions and National Conferences, and Employer-Based Work. When students complete 4 of the 6 areas of engagement with a culminating reflection, they will have the opportunity to receive a sash or cord of recognition to wear during graduation, as well as an invitation to a graduation social and networking event with other Neeley Complete students.
+        </h5>
+      </p>
+      <p style="color:#4c0c95;margin-top:1rem">
+        <h3 style="color:#4c0c95;margin-top:1rem">Our Goal</h3>
+      </p>
+      <p style="color:#6c757d">
+        <h5 style="color:#6c757d">
+          To ensure that all Neeley students have the opportunities and resources to build a portfolio of meaningful experiences within, and beyond, the Neeley community before graduating from TCU Neeley School of Business and embarking on a professional career as a well-rounded business leader.
+        </h5>
+      </p>
+      <p style="color:#4c0c95;margin-top:1rem">
+        <h3 style="color:#4c0c95;margin-top:1rem">Eligibility</h3>
+      </p>
+      <p style="color:#6c757d">
+        <h5 style="color:#6c757d">
+          This program is open to any Neeley Sophomore, Junior, or Senior; no GPA requirement; anyone can be recognized who chooses to complete the requirements that elevates their status as future business leaders.      
+        </h5>
+      </p>
+
+      <p style="color:#6c757d; margin-top: 3rem;">
+        <h3 style="color:#4c0c95; font-weight: 660;">        
+          Browse our resources and get ready to be a well-rounded Neeley graduate.
+        </h3>
+      </p>
     </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-        OUR GOAL
-      </button>
-    </h2>
-    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
-      <div class="accordion-body">
-        To ensure that all Neeley students have the opportunities and resources to build a portfolio of meaningful experiences within, and beyond, the Neeley community before graduating from TCU Neeley School of Business and embarking on a professional career as a well-rounded business leader.
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-        ELIGIBILITY
-      </button>
-    </h2>
-    <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
-      <div class="accordion-body">
-        This program is open to any Neeley Sophomore, Junior, or Senior; no GPA requirement; anyone can be recognized who chooses to complete the requirements that elevates their status as future business leaders.      </div>
-    </div>
-  </div>
+
+      <div class="accordion" id="accordionPanelsStayOpenExample" style="padding:2rem">
+  
     <div class="accordion-item">
       <h2 class="accordion-header" id="panelsStayOpen-headingFour">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
@@ -70,7 +83,7 @@
           The purpose of these experiential learning opportunities is to create a community and foster camaraderie within a group of highly-motivated individuals looking for enriched supplemental experiences; recognition of these steps fosters an environment for Neeley students to push for higher achievement. Students may choose to complete all six areas of engagement and receive further distinction.        </div>
         </div>
       </div>
-    </div>
+    
 
 
     <div class="accordion-item">
@@ -82,7 +95,7 @@
         <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
           <div class="accordion-body">
             <p>There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out. The intent-to-participate form may be completed at any time throughout the individual's enrollment at Neeley, but no later than 4 weeks prior to graduation. On this form, students identify the four engagement areas they intend to complete, and those areas may be completed at any point, but no later than 4 weeks prior to graduation.</p>
-                <div class="row" style="margin-top: 4rem; margin-bottom: 1rem; margin-left: 18rem; margin-right: auto; align-content: center;">
+                <div class="row" style="margin-top: 4rem; margin-bottom: 1rem; margin-left: 2rem; margin-right: auto; align-content: center;">
                   <div class="col-sm-5">
                     <div class="card border-0" style="width: 18rem; background-color: #4c0c95; height:21rem;">
                       <img class="card-img-top" src="https://admissions.tcu.edu/images/groupsmiles.jpg" alt="Card image cap">
@@ -94,7 +107,7 @@
                     </div>
                   </div>
                   <div class="col-sm-5">
-                    <div class="card border-0" style="width: 18rem; background-color: #4c0c95; height:21rem;">
+                    <div class="card border-0" style="width: 18rem; background-color: #4c0c95; height:21rem;margin-right:2rem; margin-left: 6rem;">
                       <img class="card-img-top" src="https://alumni.tcu.edu/new/image/web-page-photos/cropped-chapter-photos/Leadership-Awards_cropped.jpg" alt="Card image cap">
                         <div class="card-body" style="color:aliceblue">
                           <h5 class="card-title">DEADLINES</h5>
@@ -136,21 +149,94 @@
                     </div>
                 </div>
             </div>
-        
+      </div>
     </div>
+  </div>
+
+    <div class="col-md-auto" style="background-color:#c7c6c3; margin-left: 0;">
+      <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical" style="margin-top:2rem">
+        <a class="nav-link " id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true" style="color:#4c0c95">
+          <h6><router-link to="/home" style="color:#4c0c95; text-decoration: none;">Neeley Complete</router-link></h6>
+        </a>
+        <a class="nav-link active" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false" style="background-color:#c7c6c3; color:#4d4d4a">
+          <h6><router-link to="/about" style="color:#4d4d4a; text-decoration: none;">About Us</router-link></h6>
+        </a>
+        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="color:#4c0c95">
+          <h6><router-link to="/engage" style="color:#4c0c95; text-decoration: none;">Engagement Areas</router-link></h6>
+        </a>
+        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" style="color:#4c0c95">
+          <h6><router-link to="/join" style="color:#4c0c95; text-decoration: none;">Join</router-link></h6>
+        </a>
+        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" style="color:#4c0c95">
+          <h6><router-link to="/" style="color:#4c0c95; text-decoration: none;">Contact Us</router-link></h6>
+        </a>
+      </div>
+      <div class="card" style="width: 18rem; margin-top: 4rem;background-color:#c7c6c3;border: none;">
+        <h2 class="card-title" style="margin-bottom:2rem; color: #4d4d4a;">Career Counseling Appointment</h2>
+        <img class="card-img-top" src="https://www.neeley.tcu.edu/NeeleyMedia/Media/Graphics/Card%20Images/AlconCareerCenter-student-list.jpg?ext=.jpg" alt="Card image cap">
+        <div class="card-body" style="margin-top:1rem">
+          
+          <p class="card-text" style="font-size:large; color: #4d4d4a;">
+            
+              Need more guidance? We're here to help. Schedule an appointment with our peer advisers or career consultants through Handshake, TCU's online job platform.
+            
+          </p>
+          <a href="https://careers.tcu.edu/wp-content/uploads/2019/07/How-to-Schedule-an-Appointment-in-Handshake.mp4?_ga=2.115380165.274597701.1657746731-17730506.1602910756" class="btn btn-primary" style="margin-top:1rem;background-color: goldenrod; color: black; text-decoration: none;">
+            <h5>
+              HOW TO SCHEDULE APPOINTMENT
+            </h5>
+          </a>
+          <a href="https://tcu.joinhandshake.com/stu/appointments" class="btn btn-primary" style="margin-top:2rem;background-color: goldenrod; color: black; text-decoration: none;">
+            <h5>
+              SCHEDULE APPOINTMENT
+            </h5>
+          </a>
+
+        </div>
+      </div>
+
+      <div class="card" style="width: 18rem; margin-top: 4rem;background-color:#c7c6c3;border: none;">
+        <h2 class="card-title" style="margin-bottom:2rem; color: #4d4d4a;">Build Your Professional Skills</h2>
+        <img class="card-img-top" src="https://www.neeley.tcu.edu/NeeleyMedia/Media/Graphics/Card%20Images/BBA-PDC-list.jpg?ext=.jpg" alt="Card image cap">
+        <div class="card-body" style="margin-top:1rem">
+          
+          <p class="card-text" style="font-size:large; color: #4d4d4a;">
+            The Neeley Professional Development Center will help you create a competitive résumé, present ideas with polish and expand your professional network.            
+          </p>
+          <a href="https://www.neeley.tcu.edu/Page/Professional-Development-Center/a413c5aa-2f88-4c36-b1aa-e1c5eb6ad759" class="btn btn-primary" style="margin-top:1rem;background-color: goldenrod; color: black; text-decoration: none;">
+            <h5>
+              LEARN MORE
+            </h5>
+          </a>
+          
+
+        </div>
+      </div>
+
+    </div>
+    
+  </div>
+</div>
 
 </div>
+
+
 
 </template>
 
 
 <script lang="js">
+
+
+
 import AnimatedComponent from '@/components/AnimatedComponent.vue';
 export default {
   name: "About",
   components: {
     AnimatedComponent
   }
+  
+  
 }
 </script>
 
@@ -248,6 +334,22 @@ export default {
     opacity: 1;
     transform: translateY(0px);
   }
+
+  #side_nav{
+    background: black;
+    margin-left: auto; 
+    margin-right: 0;
+  }
+  .content{
+    min-height: 100vh;
+    width: 100%;
+  }
+
+  .row justify-content-md-center{
+    border: none;
+  }
+  
+ 
 
 
 </style> 

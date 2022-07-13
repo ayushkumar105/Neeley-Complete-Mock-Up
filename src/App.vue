@@ -26,13 +26,13 @@
 
 <div class="home-title">
   <h2 >
-    <router-link to="/home" style="color:goldenrod; text-decoration: none;">Neeley Complete</router-link>
+    <router-link to="/home" style="color:goldenrod; text-decoration: none;"><img class="resize" src="./assets/LOGO-P.jpg" alt=""></router-link>
   </h2>
 </div>
 
 
 <!--Navbar-->
-  <ul class="nav justify-content-center">
+  <!-- <ul class="nav justify-content-center">
     <ul class="nav nav-tabs" id="myTab" role="tablist">
       <li class="nav-item" role="presentation">
         <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true" href="/">
@@ -60,14 +60,22 @@
       <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab"></div>
       <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab"></div>
     </div>
-  </ul>
+  </ul> -->
 <!--||||||||||||||-->
+
+<!-- <nav class="nav justify-content-end flex-column" style="margin-left:80rem;">
+  <a class="nav-link active" href="#">Active</a>
+  <a class="nav-link" href="#">Link</a>
+  <a class="nav-link" href="#">Link</a>
+  <a class="nav-link disabled" href="#">Disabled</a>
+</nav> -->
 
 <router-view></router-view>
 
 </template>
 
 <script>
+
 
 </script>
 
@@ -96,7 +104,7 @@ img{
   display: flex;
   align-content: center;
   justify-content: center;
-  background-color: #4c0c95;
+  background-color: #4e1975;
   text-decoration: none;
 }
 
@@ -109,10 +117,11 @@ img{
   background-color: grey;
 }
 
-// $navbar-light-brand-color:                $navbar-light-active-color;
-// $navbar-light-brand-hover-color:          $navbar-light-active-color;
-// $navbar-dark-brand-color:                 $navbar-dark-active-color;
-// $navbar-dark-brand-hover-color:           $navbar-dark-active-color;
-
+.resize{
+  width:11rem;
+  height: auto;
+  margin-bottom: 0;
+  margin-top: auto;
+}
 
 </style>
