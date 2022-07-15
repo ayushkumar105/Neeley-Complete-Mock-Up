@@ -153,7 +153,7 @@
           </p>
           <a href="https://careers.tcu.edu/wp-content/uploads/2019/07/How-to-Schedule-an-Appointment-in-Handshake.mp4?_ga=2.115380165.274597701.1657746731-17730506.1602910756" class="btn btn-primary" style="margin-top:1rem;background-color: goldenrod; color: black; text-decoration: none;">
             <h5>
-              HOW TO SCHEDULE APPOINTMENT
+              HOW TO SCHEDULE APPOINTMENTS
             </h5>
           </a>
           <a href="https://tcu.joinhandshake.com/stu/appointments" class="btn btn-primary" style="margin-top:2rem;background-color: goldenrod; color: black; text-decoration: none;">
