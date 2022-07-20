@@ -3,6 +3,7 @@
 <!-- Carousel -->
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
+      
       <div class="carousel-item active">
         <img src="https://www.neeley.tcu.edu/getattachment/05850c88-4f74-4966-acd1-6e339038112a/home-head.jpg" class="d-block w-100" alt="...">
       </div>
@@ -11,6 +12,11 @@
       </div>
       <div class="carousel-item">
         <img src="https://neeley.tcu.edu/NeeleyMedia/Media/Graphics/Headers/Alumni-frogfountain-head.jpg?ext=.jpg" class="d-block w-100" alt="...">
+      </div>
+      <div class="home-title1">
+        <h2 >
+          <router-link to="/home" style="color:goldenrod; text-decoration: none;"><img class="resize" src="./assets/LOGO-P.jpg" alt=""></router-link>
+        </h2>
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -24,11 +30,15 @@
   </div>
 <!--|||||||||||||||-->
 
-<div class="home-title">
-  <h2 >
-    <router-link to="/home" style="color:goldenrod; text-decoration: none;"><img class="resize" src="./assets/LOGO-P.jpg" alt=""></router-link>
-  </h2>
-</div>
+  <div id = "main">
+        <div id="left">
+            
+        </div>
+         
+        <div id="right">
+            
+        </div>
+    </div>
 
 
 <!--Navbar-->
@@ -70,6 +80,8 @@
   <a class="nav-link disabled" href="#">Disabled</a>
 </nav> -->
 
+  
+
 <router-view></router-view>
 
 </template>
@@ -106,6 +118,7 @@ img{
   justify-content: center;
   background-color: #4e1975;
   text-decoration: none;
+  
 }
 
 .nav-link {
@@ -123,5 +136,43 @@ img{
   margin-bottom: 0;
   margin-top: auto;
 }
+
+.carouselExampleControls{
+  position: absolute;
+}
+ .carousel-inner{
+       position:relative;
+     }
+.home-title1{
+    position:absolute;
+        width: 170px;
+        height: 150px;
+        
+        z-index: 1000;
+        
+        left:683px;
+        right:auto;
+        bottom:0px;
+  
+}
+
+#main {
+            height: 100px;
+            border: 1px solid black;
+            font-size: 20px;
+            font-weight: bold;
+            color: white;
+        }
+        #left {
+            float: left;
+            width: 180px;
+            height: 100%;
+            background-color: #4e1975;
+        }
+        #right {
+            width: 100%;
+            height: 100%;
+            background-color: #4e1975;
+        }
 
 </style>
