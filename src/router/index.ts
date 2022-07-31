@@ -4,7 +4,12 @@ import Engagement from '../views/Engagement.vue'
 import Join from '../views/Join.vue'
 import About from '../views/AboutView.vue'
 import Home from '../views/Homepage.vue'
-
+import emp from '../views/Employer-based.vue'
+import Lead from '../views/Leader.vue'
+import Serve from '../views/Service.vue'
+import Research from '../views/Research.vue'
+import Int from '../views/InterCult.vue'
+import Comp from '../views/Comp.vue'
 const routes = [
   {
     path: '/',
@@ -35,6 +40,36 @@ const routes = [
     name:'homepage',
     component: Home
   },
+  {
+    path: '/emp',
+    name: 'employer',
+    component: emp
+  },
+  {
+    path: '/int',
+    name: 'Intercultural',
+    component: Int
+  },
+  {
+    path: '/serve',
+    name: 'service',
+    component: Serve
+  },
+  {
+    path: '/lead',
+    name: 'leadership',
+    component: Lead
+  },
+  {
+    path: '/research',
+    name: 'research',
+    component: Research
+  },
+  {
+    path: '/comp',
+    name: 'competition',
+    component: Comp
+  }
 
 ]
 

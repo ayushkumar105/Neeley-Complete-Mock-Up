@@ -9,6 +9,17 @@
       <li class="breadcrumb-item active" aria-current="page" style="color:#4c0c95; font-weight: bold;">Engagement Areas</li>
     </ol>
   </nav>  
+  <div class="intro" style="margin-left:1rem; margin-top:2rem; margin-bottom:2rem;">
+    <p>
+      Neeley Complete recognizes the engaged, well-rounded undergraduate business student who excels beyond the classroom in the areas of Leadership, Service, Research, Employer-Based Work, Intercultural Education, and Competitions and National Conferences. A Neeley student who meets the criteria in four of the five areas and has their synthesis reflection project approved will be recognized at graduation as Neeley Complete.
+    </p>
+    <p>
+      Students can complete the 4 areas of engagement in the order of their preference and they can occur concurrently. Students may use the same experience (e.g., an international internship) to qualify for no more than two areas; however, if the student elects to use the same experience for two areas, they are still responsible for all requirements of the two areas that the experience specifies. All experiences used for Neeley Complete must occur while the student is enrolled in undergraduate coursework.
+    </p>
+    <p>
+      Students will fulfill all requirements for their areas of engagement, including their synthesis reflection project at least 8 weeks prior to their graduation date.
+    </p>
+  </div>
     <div class="accordion" id="accordionPanelsStayOpenExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -18,8 +29,18 @@
     </h2>
     <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
         <div class="accordion-body">
-          The goal of the Competitions and National Conferences initiative of Neeley Complete is to present students with various opportunities to explore and engage in areas related to their prospective field and beyond. Through these experiences, students will have the ability to evolve professionally by networking, expanding their knowledge, presenting their ideas, and gaining new perspectives. 
+          <p>
+            The goal of the Competitions and National Conferences initiative of Neeley Complete is to present students with various opportunities to explore and engage in areas related to their prospective field and beyond. Through these experiences, students will have the ability to evolve professionally by networking, expanding their knowledge, presenting their ideas, and gaining new perspectives. 
+          </p>
         </div>
+        <a href="/comp" class="btn btn-primary" style="margin-bottom:1rem; margin-left:1rem; background-color: goldenrod; color: black; text-decoration: none;">
+            <router-link to="/comp" style="text-decoration:none;color:black">
+              <h6>
+                LEARN MORE
+              </h6>
+            </router-link>
+           
+          </a>
     </div>
   </div>
   <div class="accordion-item">
@@ -30,9 +51,22 @@
     </h2>
     <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
         <div class="accordion-body">
-          The purpose of the employer-based work initiative of Neeley Complete is to present students with the real-world application of their studies. Employer-based work may be done in any related field to the student's studies. Practical application helps determine interests, increase future job satisfaction, and demonstrates the importance of company culture fit. Through employer-based work, students have the opportunity to network and create lifelong professional connections.        </div>
-        </div>
-  </div>
+          <p>
+          The purpose of the employer-based work initiative of Neeley Complete is to present students with the real-world application of their studies. Employer-based work may be done in any related field to the student's studies. Practical application helps determine interests, increase future job satisfaction, and demonstrates the importance of company culture fit. Through employer-based work, students have the opportunity to network and create lifelong professional connections.        
+          </p>
+          </div>
+        
+        <a href="/emp" class="btn btn-primary" style="margin-bottom:1rem; margin-left:1rem; background-color: goldenrod; color: black; text-decoration: none;">
+            <router-link to="/emp" style="text-decoration:none;color:black">
+              <h6>
+                LEARN MORE
+              </h6>
+            </router-link>
+           
+          </a>
+          </div>
+    </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="panelsStayOpen-headingThree">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
@@ -41,9 +75,22 @@
     </h2>
     <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
         <div class="accordion-body">
-          The purpose of the Intercultural Education initiative of Neeley Complete is to introduce students to cross-cultural competence and immerse them in global competencies to create impactful interactions with the world around them.        </div>
+          <p>
+            The purpose of the Intercultural Education initiative of Neeley Complete is to introduce students to cross-cultural competence and immerse them in global competencies to create impactful interactions with the world around them.        
+          </p>
+          </div>
+        
+        <a href="/int" class="btn btn-primary" style="margin-bottom:1rem; margin-left:1rem; background-color: goldenrod; color: black; text-decoration: none;">
+            <router-link to="/int" style="text-decoration:none;color:black">
+              <h6>
+                LEARN MORE
+              </h6>
+            </router-link>
+           
+          </a>
+          </div>
     </div>
-  </div>
+  
     <div class="accordion-item">
       <h2 class="accordion-header" id="panelsStayOpen-headingFour">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
@@ -52,9 +99,22 @@
       </h2>
       <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
         <div class="accordion-body">
-          The purpose of the Leadership initiative of Neeley Complete is to encourage students to use their unique strengths and skill sets to share passions and develop leadership skills. Leadership may take the form of formal and informal leadership positions where students make a sizable impact on others and are growing in the process.        </div>
+          <P>
+          The purpose of the Leadership initiative of Neeley Complete is to encourage students to use their unique strengths and skill sets to share passions and develop leadership skills. Leadership may take the form of formal and informal leadership positions where students make a sizable impact on others and are growing in the process.        
+          </P>
+          </div>
+      
+      <a href="/lead" class="btn btn-primary" style="margin-bottom:1rem; margin-left:1rem; background-color: goldenrod; color: black; text-decoration: none;">
+            <router-link to="/lead" style="text-decoration:none;color:black">
+              <h6>
+                LEARN MORE
+              </h6>
+            </router-link>
+           
+          </a>
       </div>
-    </div>
+      </div>
+    
     <div class="accordion-item">
         <h2 class="accordion-header" id="panelsStayOpen-headingFive">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
@@ -63,9 +123,22 @@
         </h2>
         <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
             <div class="accordion-body">
-              The purpose of the Research initiative of Neeley Complete is to allow students to explore the academic side of their studies further. Through research, the student works to become an expert in an area which promotes critical thinking and clarifies passions for future endeavors. Through assisting a faculty member with research, the student has the opportunity to learn alongside some of the most distinguished researchers in the field.            </div>
+              <p>
+              The purpose of the Research initiative of Neeley Complete is to allow students to explore the academic side of their studies further. Through research, the student works to become an expert in an area which promotes critical thinking and clarifies passions for future endeavors. Through assisting a faculty member with research, the student has the opportunity to learn alongside some of the most distinguished researchers in the field.            
+              </p>
+        </div>
+        
+        <a href="/research" class="btn btn-primary" style="margin-bottom:1rem; margin-left:1rem; background-color: goldenrod; color: black; text-decoration: none;">
+            <router-link to="/research" style="text-decoration:none;color:black">
+              <h6>
+                LEARN MORE
+              </h6>
+            </router-link>
+           
+          </a>
         </div>
     </div>
+    
     <div class="accordion-item">
       <h2 class="accordion-header" id="panelsStayOpen-headingSix">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
@@ -74,9 +147,24 @@
       </h2>
       <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
         <div class="accordion-body">
-          The purpose of the Service initiative of Neeley Complete is to encourage students to experience the unique environment and culture of serving others while connecting service opportunities with students' interests. Service allows students to gain different perspectives on areas of potential impact while inspiring students to become future ethical business leaders.      
+          <p>
+            The purpose of the Service initiative of Neeley Complete is to encourage students to experience the unique environment and culture of serving others while connecting service opportunities with students' interests. Service allows students to gain different perspectives on areas of potential impact while inspiring students to become future ethical business leaders.      
+          </p>
+            
+          <p style="margin-top:2rem">
+          <button type="button" class="btn btn-warning">
+            <router-link to="/serve" style="text-decoration:none;color:black">
+              <h6>
+                LEARN MORE
+              </h6>
+            </router-link>
+          </button>
+            
+          </p>
         </div>
+        
     </div>
+    
   </div>
 </div>
       </div>
@@ -132,6 +220,7 @@
             The Neeley Professional Development Center will help you create a competitive résumé, present ideas with polish and expand your professional network.            
           </p>
           <a href="https://www.neeley.tcu.edu/Page/Professional-Development-Center/a413c5aa-2f88-4c36-b1aa-e1c5eb6ad759" class="btn btn-primary" style="margin-top:1rem;background-color: goldenrod; color: black; text-decoration: none;">
+            
             <h5>
               LEARN MORE
             </h5>
@@ -145,6 +234,7 @@
     </div>
   
 </div>
+<router-view></router-view>
 </template>
 
 <style scoped lang="scss">
@@ -161,6 +251,11 @@
   font-size: large;
   border-block-color: purple;
   border-color: purple;
+}
+
+p{
+  color: #4d4d4a;
+  font-size: large;
 }
 
 </style>
