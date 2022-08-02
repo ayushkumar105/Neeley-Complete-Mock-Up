@@ -19,6 +19,7 @@
             </p>
             <p style="margin-top:1rem;color:#4d4d4a;d4a;font-size:large">
             <ul style="list-style-type:circle;color:#4d4d4a;d4a;font-size:large">
+              The goal of the Competitions and National Conferences initiative of Neeley Complete is to present students with various opportunities to explore and engage in areas beyond their field or interest. Through these experiences, students will have the ability to evolve professionally by networking, expanding their knowledge, presenting their ideas, and gaining new perspectives. 
               <!-- <li></li>
               <li></li>              
               <li></li>             -->
@@ -34,9 +35,8 @@
               <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
                   <ul style="list-style-type:circle;color:#4d4d4a;d4a;font-size:large">
-                    <li>Requirement 1</li>
-                    <li>Requirement 2</li>
-                    <li>Requirement 2</li>                  
+                    <li>Student must attend atleast 3 national conferences</li>
+                    <li>Student must participate in atleast 5 competitions</li>
                   </ul>
                   <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR COMPETITIONS AND NATIONAL CONFERENCES</a>      
                 </div>
@@ -52,16 +52,7 @@
                 <div class="accordion-body">
                   <ul style="list-style-type:circle;color:#4d4d4a;d4a;font-size:large">
                     <li>
-                      <a href="https://www.neeley.tcu.edu/Page/Alcon-Career-Center/2709d530-917c-4174-8d7a-777f55195446" style="color:#4c0c95;font-weight:bold">Alcon Center</a>
-                    </li>
-                    <li>
-                      <a href="https://www.neeley.tcu.edu/Page/Entrepreneurship-and-Innovation/55a96cdd-25da-4342-8d26-94b979015382" style="color:#4c0c95;font-weight:bold">Entrepreneurial Intern Scholars Program</a>
-                    </li>
-                    <li>
-                      <a href="https://app.joinhandshake.com/stu" style="color:#4c0c95;font-weight:bold">Handshake</a>      
-                    </li>
-                    <li>
-                      <a href="https://neeley.tcu.edu/File/Internship-Application/f6bdf77e-d353-4669-9d5d-bb318744fd88" style="color:#4c0c95;font-weight:bold">Internship for Academic Credit</a>      
+                      <a href="#" style="color:#4c0c95;font-weight:bold">Link to TCU Competitions (Link doesn't work right now)</a>      
                     </li>                     
                   </ul>
                 </div>

@@ -35,9 +35,8 @@ An effective leadership learning experience is an educational, developmental or 
               <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
                   <ul style="list-style-type:circle;color:#4d4d4a;d4a;font-size:large">
-                    <li>Requirement 1</li>
-                    <li>Requirement 2</li>
-                    <li>Requirement 2</li>                  
+                    <li>Student must hold an informal or formal leadership position where they have influenced at least two of their peers</li>
+                    <li>Student must bi weekly, record how their experience with their leadership has evolved, and opportunities for improvement to enhance their leadership abilities.</li>
                   </ul>
                   <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR LEADERSHIP</a>      
                 </div>
@@ -52,6 +51,15 @@ An effective leadership learning experience is an educational, developmental or 
               <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
                   <ul style="list-style-type:circle;color:#4d4d4a;d4a;font-size:large">
+                    <li>
+                      <a href="https://hbr.org/2004/01/understanding-leadership" style="color:#4c0c95;font-weight:bold">Understanding leadership</a>
+                    </li>
+                    <li>
+                      <a href="https://www.forbes.com/sites/kevinkruse/2013/05/12/what-is-authentic-leadership/" style="color:#4c0c95;font-weight:bold">What is authentic leadership?</a>
+                    </li>
+                    <li>
+                      <a href="https://hbr.org/2022/06/the-right-way-to-process-feedback" style="color:#4c0c95;font-weight:bold">How to process feedback</a>
+                    </li>
                     <li>
                       <a href="https://www.neeley.tcu.edu/Page/BNSF-Neeley-Leadership-Program/f482296d-aa35-4408-aa00-16bfe5eac3f3" style="color:#4c0c95;font-weight:bold">BNSF Neeley Leadership Program</a>
                     </li>

@@ -14,7 +14,8 @@
               Intercultural Education 
             </h1>
             <p style="margin-top:1rem;color:#4d4d4a;font-size:large">
-              An effective international experience is defined as participation in a TCU-approved intensive international experience of at least one week abroad in which students collaborate effectively with people from cultures different than their own.            </p>
+              The purpose of the Intercultural Education initiative sector of Neeley Complete is to introduce students to cross-cultural competence and immerse them in global competencies to create impactful interactions with the world around them.              
+            </p>
             <p style="margin-top:1rem;color:#4d4d4a;font-size:large;">
               Through the International Experience, students will demonstrate the ability to:
             </p>
@@ -36,11 +37,40 @@
               </h2>
               <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
-                  <ul style="list-style-type:circle;color:#4d4d4a;d4a;font-size:large">
-                    <li>Requirement 1</li>
-                    <li>Requirement 2</li>
-                    <li>Requirement 3</li>                  
-                  </ul>
+                  <P style="color:#4d4d4a;d4a;font-size:large">
+                    Choose one of the following options to complete the Intercultural Education initiative. These four options are based upon Texas Christian University’s Intercultural Center Values:
+                  </P>
+                    <ol style="color:#4d4d4a;d4a;font-size:large">
+                      <li style="font-weight:bold">Intellectual and Social Inclusion / Intersectionality:</li>
+                      <ul>
+                        <li>
+                          Spend a minimum of 25 hours volunteering with a non-profit organization, women-owned business, LGBTQ+ owned, or minority-owned business that has a mission of improving society for disadvantaged groups. Hours should be approved through a signed digital letter by a leader of the organization. 
+                        </li>
+                      
+                      </ul>
+                      <li style="font-weight:bold">Empowerment Through Social Justice and Advocacy:</li>
+                        <ul>
+                        <li>
+                          Attend 10 events that advance social justice and advocacy in the community. Events such as: Town-Hall Meetings, Chamber of Commerce Meetings, Protests or Demonstrations, Advocacy Group Chapter Meetings, Meetings With Elected Officials, Charity Events, etc., are all appropriate to complete this option. We urge students to choose a variety of events -- no more than four events about the same topic (Ex: attending three events regarding a certain advocacy topic is not allowed).                        </li>
+                      
+                      </ul>
+                      <li style="font-weight:bold">Civic and Global Engagement (choose one of two options):</li>
+                      <ul>
+                        <li>
+                          Study abroad for one or more weeks through a TCU approved program. While abroad, immerse yourself in a minimum of 3 experiences unique to that country’s culture (Ex: venture beyond the tourist attractions, museum, libraries, monuments, conversations in that country’s native tongue, local music concert, etc.)
+                        </li>
+                        <li>
+                          Attend 10 events hosted by the TCU Intercultural Center (or related TCU groups) about a certain country, culture, or group (Ex: LATNX, Black Culture, Vietnam, etc.). These events can be in relation to the country/culture/group’s food, language, practices, background, etc.
+                        </li>
+                      </ul>
+                      <li style="font-weight:bold">Transformation Through Experiential Learning:</li>
+                      <ul>
+                        <li>
+                          Attend a TCU Intercultural Center domestic trip (two per academic year). In addition to attending 5, separate, events held by the TCU Intercultural Center (or related groups). These events can consist of guest speakers, month-awareness events (Black History Month, Hispanitc Heritage Month, Women’s Appreciation Month, etc.), “open mic” conversations about current topics, food-tastings, TCU Race and Reconciliation Task Force Learning Events, TCU Reconciliation Day, etc.                        
+                        </li>
+                      
+                      </ul>
+                    </ol>                 
                   <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR INTERCULTURAL EDUCATION</a>      
                 </div>
               </div>
@@ -55,10 +85,16 @@
                 <div class="accordion-body">
                   <ul style="list-style-type:circle;color:#4d4d4a;d4a;font-size:large">
                     <li>
-                      <a href="https://www.neeley.tcu.edu/Page/Neeley-Office-of-Inclusive-Excellence/6a7d49aa-be62-41d6-ac3e-17f52572475d" style="color:#4c0c95;font-weight:bold">Neeley Office of Inclusive Excellence</a>
+                      <a href="https://diversity.tcu.edu/intercultural-center/" style="color:#4c0c95;font-weight:bold">TCU Intercultural Center</a>
                     </li>
                     <li>
-                      <a href="https://www.neeley.tcu.edu/Page/Get-Involved/a2822703-5b75-4118-928f-000efd79aae3" style="color:#4c0c95;font-weight:bold">Engage in Neeley Office of Inclusive Excellence</a>
+                      <a href="https://sis.tcu.edu/cres/" style="color:#4c0c95;font-weight:bold">TCU CRES Department</a>
+                    </li>
+                    <li>
+                      <a href="https://www.tcu.edu/race-reconciliation-initiative/index.php" style="color:#4c0c95;font-weight:bold">TCU Race and Reconciliation</a>
+                    </li>
+                    <li>
+                      <a href="https://studyabroad.tcu.edu/" style="color:#4c0c95;font-weight:bold">TCU Study Abroad</a>
                     </li>
                                        
                   </ul>
