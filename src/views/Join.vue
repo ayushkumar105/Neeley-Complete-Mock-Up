@@ -198,7 +198,12 @@ import { ref} from "vue"
 
 export default{
     name:'Add',
+    
+    mounted() {
 
+        window.scrollTo(650, 650) // I'm text inside the component.
+
+    },
     setup() {
         const file = ref(null)
 

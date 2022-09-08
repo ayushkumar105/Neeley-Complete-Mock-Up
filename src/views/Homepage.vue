@@ -55,7 +55,8 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Competitions and National Conferences</h5>
                         <p class="card-text">Evolve professionally by networking, expanding your knowledge, presenting your ideas, and gaining new perspectives.</p>
-                        <a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Compete</a>
+                        
+                        <router-link to="/comp" ><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;"> Compete</a></router-link>
                     </div>
                     </div>
                 </div>
@@ -73,7 +74,7 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Employer-based Work</h5>
                         <p class="card-text">Explore, engage, and develop through work that enables you to reach lifelong professional and personal success.</p>
-                        <a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Pursue</a>
+                        <router-link to="/emp" ><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Pursue</a></router-link>
                     </div>
                     </div>
                 </div>
@@ -92,7 +93,8 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Intercultural Education</h5>
                         <p class="card-text">Learn about cross-cultural competence and immerse in global competencies to create impactful interactions with the world around you.</p>
-                        <a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Engage</a>
+                        <router-link to="/int" ><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Engage</a></router-link>
+                        
                     </div>
                     </div>
                 </div>
@@ -111,7 +113,8 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Leadership</h5>
                         <p class="card-text">Learn to use your unique strengths and skill sets to share passions and develop leadership skills.</p>
-                        <a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Learn</a>
+                        <router-link to="/lead"><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Learn</a></router-link>
+                        
                     </div>
                     </div>
                 </div>
@@ -130,7 +133,8 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Research</h5>
                         <p class="card-text">Prepare for graduate school and apply knowledge in an environment outside the classroom​.</p>
-                        <a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Discover</a>
+                        <router-link to="/research"><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Discover</a></router-link>
+                        
                     </div>
                     </div>
                 </div>
@@ -149,7 +153,8 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Service</h5>
                         <p class="card-text">Experience the unique environment and culture of serving others while connecting service opportunities with your own interests.</p>
-                        <a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Serve</a>
+                        <router-link to="/serve"><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Serve</a></router-link>
+                        
                     </div>
                     </div>
                 </div>
@@ -238,7 +243,12 @@
     name: "About",
     components: {
         AnimatedComponent
-    }
+    },
+  mounted() {
+
+    window.scrollTo(650, 650) // I'm text inside the component.
+
+  }
     }
 </script>
 

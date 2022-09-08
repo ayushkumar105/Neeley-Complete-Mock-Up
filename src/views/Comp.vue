@@ -151,6 +151,11 @@ ul {
     name: "Comp",
     components: {
         AnimatedComponent
-    }
+    },
+  mounted() {
+
+    window.scrollTo(650, 650) // I'm text inside the component.
+
+  }
     }
 </script>

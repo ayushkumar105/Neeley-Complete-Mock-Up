@@ -224,3 +224,16 @@
   
   
 </style>
+
+<script>
+
+
+export default{
+  
+  mounted() {
+
+    window.scrollTo(650, 650) // I'm text inside the component.
+
+  }
+}
+</script>
