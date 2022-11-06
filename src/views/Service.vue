@@ -30,15 +30,15 @@
                     <li>Minimum of 25 hours in total must be spent for this engagement area.</li>
                                     
                   </ul>
+                  <p style="color:#4d4d4a;d4a;font-size:large; font-style: italic;">
+                    Rubric: Student must submit a journal that records their impact in their respective service before, during and after their final reflection.
+                  </p> 
                   <div style="font-weight:bold">
-                  <p >
-                    Note: If your service program cannot meet the minimum hours requirement, please email us at neeleycomplete@tcu.edu
-                  
-                  </p>
-                  </div>
-                  
-                  
-                  <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR SERVICE</a>      
+                    <p >
+                      Note: If your service program cannot meet the minimum hours requirement, please email us at neeleycomplete@tcu.edu
+                    
+                    </p>
+                  </div>    
                 </div>
               </div>
             </div>

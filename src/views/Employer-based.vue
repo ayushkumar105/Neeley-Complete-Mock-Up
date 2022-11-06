@@ -14,7 +14,7 @@
                 Employer-Based Work 
             </h1>
             <p style="margin-top:1rem;color:#4d4d4a;font-size:large">
-                Effective internships are typically single-semester or at least twelve week, paid or unpaid major/ career-related work experiences designed to help students understand the professional applications, theories, ideas, principles and concepts of their academic studies. Involvement may be part-time, as little as 10 hours a week, or full-time.
+              Employer based work is an essential avenue to connect academic learning to real world application. The student body at the TCU Neeley School of Business average 3.1 internships per student throughout their four years at TCU. This is a driver for career placement and building successful skills to excel in the early years of a career. Students may complete employer based work in any capacity relating to their future career to ensure relevant experience. 
             </p>
             <p style="margin-top:1rem;color:#4d4d4a;font-size:large;">
               Through the Internship Experience, students will demonstrate the ability to:
@@ -40,7 +40,9 @@
                     <li>Minimum 10 hours per week.</li>
                                     
                   </ul>
-                  <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR EMPLOYER-BASED WORK</a>      
+                  <p style="color:#4d4d4a;d4a;font-size:large; font-style: italic;">
+                    Rubric: Record periodically connections to academia and new insights the position brings. Have one meeting with supervisor reflecting on work completed and further opportunities for growth. Students are then able to draw from this for the final reflection.
+                    </p>         
                 </div>
               </div>
             </div>

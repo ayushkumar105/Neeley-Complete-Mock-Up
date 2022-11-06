@@ -38,7 +38,9 @@
                     <li>Student must attend atleast 3 national conferences</li>
                     <li>Student must participate in atleast 5 competitions</li>
                   </ul>
-                  <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR COMPETITIONS AND NATIONAL CONFERENCES</a>      
+                  <p style="color:#4d4d4a;d4a;font-size:large; font-style: italic;">
+                    Rubric: The student must take an image at each conference and competition that they attend in order to prove their attendance. In addition, if it’s a TCU student organization/club, students must obtain a signed digital letter from the President saying the student was in attendance. If the national conferences and/or competitions are not TCU-affiliated, students are required to show proof of registry (Ex: confirmation email, sign-up page screenshot, etc.)
+                  </p>    
                 </div>
               </div>
             </div>

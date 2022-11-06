@@ -10,11 +10,17 @@ import Serve from '../views/Service.vue'
 import Research from '../views/Research.vue'
 import Int from '../views/InterCult.vue'
 import Comp from '../views/Comp.vue'
+import Syn from '../views/Syn.vue'
 const routes = [
   {
     path: '/',
     name: 'home',
     component: HomeView
+  },
+  {
+    path: '/syn',
+    name: 'syn',
+    component: Syn
   },
   {
     path: '/about',

@@ -14,7 +14,8 @@
                 Leadership
             </h1>
             <p style="margin-top:1rem;color:#4d4d4a;font-size:large">
-An effective leadership learning experience is an educational, developmental or engagement activity with the intentional purpose of developing and enhancing leadership knowledge and practice.            </p>
+              Leadership is an important skill to succeed in the business world, and a forefront focus at TCU Neeley School of Business. However, leadership can be potentially ambiguous regarding impacts and success. While leadership can take place strictly on an individual level, for Neeley Complete, students must be in a position to lead others.             
+            </p>
             <p style="margin-top:1rem;color:#4d4d4a;font-size:large;">
               Through approved Neeley Complete leadership experiences, students will demonstrate the ability to:             
             </p>
@@ -38,7 +39,9 @@ An effective leadership learning experience is an educational, developmental or 
                     <li>Student must hold an informal or formal leadership position where they have influenced at least two of their peers</li>
                     <li>Student must bi weekly, record how their experience with their leadership has evolved, and opportunities for improvement to enhance their leadership abilities.</li>
                   </ul>
-                  <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR LEADERSHIP</a>      
+                  <p style="color:#4d4d4a;d4a;font-size:large; font-style: italic;">
+                    Rubric: In addition to the bi-weekly reports, the student must discuss with someone their position of leadership influenced and receive feedback on what the leader did successfully, and where there is opportunity for growth. Feedback is meant to be constructive and possibly difficult to hear, however, learning to successfully receive feedback is essential in the development of leaders.
+                  </p>
                 </div>
               </div>
             </div>

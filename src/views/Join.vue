@@ -54,7 +54,10 @@
                         <div class="card-body1" >
                             <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">SELECT A MENTOR</h3>
                             <p class="card-text">Choose a staff member, faculty member, or Neeley Senior mentor who can help you process and reflect on how your experiences are shaping you as a future business leader.</p>
-                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+                            <a href="https://neeley.tcu.edu/Page/Mentee-Application/2cc2c38f-3f2f-4006-b9e7-e77302bfb20e">
+                                <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+                            </a>
+                            
 
                         </div>
                     </div>
@@ -72,7 +75,10 @@
                         <div class="card-body1" >
                             <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">ENGAGEMENT AREAS</h3>
                             <p class="card-text">To earn the Neeley Complete distinction, you need to complete four different areas of engagement that contribute to distinct categories within Leadership, Employer-Based Work, Research, Intercultural Education, Service and Competitions and National Conference.</p>
-                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+                            <a href="#/engage">
+                                <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+                            </a>
+                            
 
                         </div>
                     </div>
@@ -106,22 +112,21 @@
                     <div class="col-md-4">
                         <img src="https://admissions.tcu.edu/images/groupsmiles.jpg" class="card-img" alt="..." style="max-height:15rem">
                     </div>
-                    <div class="col-md-8">
-                        <div class="card-body1" >
-                            <h3 class="card-title" style="color: #4c0c95; margin-bottom: 2rem;">JOIN US TODAY!</h3>
-                            <p class="card-text">There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out.</p>
-                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Join Now</button>
+                        <div class="col-md-8">
+                            <div class="card-body1" >
+                                <h3 class="card-title" style="color: #4c0c95; margin-bottom: 2rem;">JOIN US TODAY!</h3>
+                                <p class="card-text">There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out.</p>
+                                <a href="https://www.neeley.tcu.edu/Page/Neeley-Complete/9c6c9425-2cc4-4e0d-81ea-932971739a20"><button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Join Now</button></a>
 
                             
 
+                            </div>
                         </div>
-                    </div>
+                </div>
                 </div>
             </div>
         </div>
-
     </div>
-            </div>
             
         <div class="col-md-auto" style="background-color:#c7c6c3; margin-left: 0;">
             <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical" style="margin-top:2rem">

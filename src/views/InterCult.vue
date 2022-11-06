@@ -71,7 +71,9 @@
                       
                       </ul>
                     </ol>                 
-                  <a href="#" style="color:#4c0c95;font-weight:bold;font-size: larger;font-style: italic;">RUBRIC FOR INTERCULTURAL EDUCATION</a>      
+                    <p style="color:#4d4d4a;d4a;font-size:large; font-style: italic;">
+                    Rubric: To complete this initiative, we ask that students take photos of themselves at these related events. If photos are not possible, please obtain a signed digital letter from a leader of the event(s)
+                    </p>       
                 </div>
               </div>
             </div>
