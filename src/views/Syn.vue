@@ -79,115 +79,12 @@
                 <li>Editing - the written portions meet basic college-level writing standards - 2 pts</li>
                 <li>Committee's Reaction to the quality and thoughtfulness of the Synthesis Reflection - 2 pts</li>
               </ul>
-            
           </p>
         </div>
-    
-          <div class="accordion" id="accordionPanelsStayOpenExample" style="padding:2rem">
-      
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="panelsStayOpen-headingFour">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              PROCESS
-            </button>
-          </h2>
-          <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
-            <div class="accordion-body">
-              There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out. The intent-to-participate form may be completed at any time throughout the individual's enrollment at Neeley, but no later than 4 weeks prior to graduation. On this form, students identify the four engagement areas they intend to complete, and those areas may be completed at any point, but no later than 4 weeks prior to graduation. 
-            </div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="panelsStayOpen-headingFive">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              OPPORTUNITIES FOR ENGAGEMENT 
-            </button>
-          </h2>
-          <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
-            <div class="accordion-body">
-              Neeley Complete will have a website that includes opportunities that may be used to complete the six areas of engagement. These will consist of links to internship job postings, research needs from professors, on-campus events led by student organizations, intercultural events, study abroad information, and more. Additionally, Neeley Student Organization representatives will provide avenues by which interested students can engage in club-related events and leadership positions that align with Neeley Complete engagement areas. Students will use these Neeley-provided resources and increase engagement for on-campus clubs, organizations, TCU offices and centers.        </div>
-          </div>
-        </div>
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="panelsStayOpen-headingSix">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              DISTINCTION & GROWTH
-            </button>
-          </h2>
-          <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
-            <div class="accordion-body">
-              The purpose of these experiential learning opportunities is to create a community and foster camaraderie within a group of highly-motivated individuals looking for enriched supplemental experiences; recognition of these steps fosters an environment for Neeley students to push for higher achievement. Students may choose to complete all six areas of engagement and receive further distinction.        </div>
-            </div>
-          </div>
-        
-    
-    
-        <div class="accordion-item">
-          <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-              APPLICATION 
-            </button>
-          </h2>
-            <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
-              <div class="accordion-body">
-                <p>There is no application to participate in Neeley Complete; however, an online intent-to-participate form must be filled out. The intent-to-participate form may be completed at any time throughout the individual's enrollment at Neeley, but no later than 4 weeks prior to graduation. On this form, students identify the four engagement areas they intend to complete, and those areas may be completed at any point, but no later than 4 weeks prior to graduation.</p>
-                    <div class="row" style="margin-top: 4rem; margin-bottom: 1rem; margin-left: 2rem; margin-right: auto; align-content: center;">
-                      <div class="col-sm-5">
-                        <div class="card border-0" style="width: 18rem; background-color: #4c0c95; height:21rem;">
-                          <img class="card-img-top" src="https://admissions.tcu.edu/images/groupsmiles.jpg" alt="Card image cap">
-                            <div class="card-body" style="color:aliceblue">
-                                <h5 class="card-title">JOIN US TODAY!</h5>
-                                  <p class="card-text">You can join us by simply filling out the intent to participate form.</p>
-                                    <a href="#" class="btn btn-primary" style="background-color:goldenrod; color:black">Intent to participate</a>
-                            </div>
-                        </div>
-                      </div>
-                      <div class="col-sm-5">
-                        <div class="card border-0" style="width: 18rem; background-color: #4c0c95; height:21rem;margin-right:2rem; margin-left: 6rem;">
-                          <img class="card-img-top" src="https://alumni.tcu.edu/new/image/web-page-photos/cropped-chapter-photos/Leadership-Awards_cropped.jpg" alt="Card image cap">
-                            <div class="card-body" style="color:aliceblue">
-                              <h5 class="card-title">DEADLINES</h5>
-                                <p class="card-text">Stay upto date on the synthesis reflection deadline.</p>
-                                  <a href="#" class="btn btn-primary" style="background-color:goldenrod; color:black">Deadlines</a>
-                            </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                
-                <div class="accordion-item">
-                        <h2 class="accordion-header" id="panelsStayOpen-headingEight">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-                                MENTORSHIP
-                            </button>
-                        </h2>
-                    <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEight">
-                        <div class="accordion-body">
-                            <p>Neeley Complete students are in control of their engagement, and will choose a staff member, faculty member, or Neeley Senior mentor who can help them process and reflect on how their experiences are shaping them as a future business leader. </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="panelsStayOpen-headingNine">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseNine" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-                            SYNTHESIS REFLECTION
-                        </button>
-                    </h2>
-                    <div id="panelsStayOpen-collapseNine" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingNine">
-                        <div class="accordion-body">
-                            <p>Upon completion of the four areas of engagement, Neeley Complete students will present their synthesis and reflection with their mentor. The form of the presentation is encouraged to be done based on the individual's interests and skills: it may be done in the form of a reflection paper, a video journal, a picture collage, a TedTalk recording, an online portfolio or website, or any other medium that the student desires to express themselves and their experiences through. Need more help with your synthesis reflection? Check out the 
-                              
-                              <router-link to="/syn" ><a href="/syn" style="color:#4c0c95">synthesis reflection guide.</a></router-link>
-                            </p>
-                            <p style="margin-top: 1rem; margin-bottom: 1rem; font-weight: bold;">If you have already completed your synthesis and reflection presentation, then you can upload it down below.</p>
-                            <input ref="file" v-on:change="handleFileUpload()"  type="file">
-                        </div>
-                    </div>
-                </div>
-          </div>
-        </div>
       </div>
+    
+    
+       
     
         <div class="col-md-auto" style="background-color:#c7c6c3; margin-left: 0;">
           <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical" style="margin-top:2rem">
