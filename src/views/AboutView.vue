@@ -1,10 +1,5 @@
 <template>
 <div class="about">
-  
-  
-  
-
-  
 
 <div class="container">
   <div class="row justify-content-md-center">
@@ -141,8 +136,8 @@
                 <div id="panelsStayOpen-collapseNine" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingNine">
                     <div class="accordion-body">
                         <p>Upon completion of the four areas of engagement, Neeley Complete students will present their synthesis and reflection with their mentor. The form of the presentation is encouraged to be done based on the individual's interests and skills: it may be done in the form of a reflection paper, a video journal, a picture collage, a TedTalk recording, an online portfolio or website, or any other medium that the student desires to express themselves and their experiences through. Need more help with your synthesis reflection? Check out the 
-                          <a href="../assets/REFLECTION.pdf" style="color:#4c0c95">synthesis reflection guide.</a>
                           
+                          <router-link to="/syn" ><a href="/syn" style="color:#4c0c95">synthesis reflection guide.</a></router-link>
                         </p>
                         <p style="margin-top: 1rem; margin-bottom: 1rem; font-weight: bold;">If you have already completed your synthesis and reflection presentation, then you can upload it down below.</p>
                         <input ref="file" v-on:change="handleFileUpload()"  type="file">
