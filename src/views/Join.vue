@@ -96,10 +96,9 @@
                         <div class="card-body1" >
                             <h3 class="card-title" style="color: #4c0c95; margin-bottom: 1rem;">COMPLETE YOUR SYNTHESIS REFLECTION</h3>
                             <p class="card-text">Upon completion of the four areas of engagement, Neeley Complete students will present their synthesis and reflection with their mentor. </p>
-                            <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
-
-                            
-
+                            <a href="#/syn">
+                                <button type="button" class="btn btn-warning" style="background-color:goldenrod; font-weight:bold">Learn More</button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -138,6 +137,9 @@
                 </a>
                 <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="color:#4c0c95">
                 <h6><router-link to="/engage" style="color:#4c0c95; text-decoration: none;">Engagement Areas</router-link></h6>
+                </a>
+                <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="color:#4c0c95">
+                    <h6><router-link to="/syn" style="color:#4c0c95; text-decoration: none;">Synthesis Reflection</router-link></h6>
                 </a>
                 <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" style="color:#4c0c95">
                 <h6><router-link to="/join" style="color:#4d4d4a; text-decoration: none;">Join</router-link></h6>

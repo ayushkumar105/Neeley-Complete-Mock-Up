@@ -4,8 +4,8 @@
         <div class="col">
           <nav style="--bs-breadcrumb-divider: '>';margin-left:2rem;" aria-label="breadcrumb" >
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="#" style="text-decoration:none;color:#4c0c95;font-weight: bold;">Home</a></li>
-              <li class="breadcrumb-item active" aria-current="page" style="color:#4c0c95; font-weight: bold;">Engagement Areas</li>
+              <li class="breadcrumb-item"><a href="#/home" style="text-decoration:none;color:#4c0c95;font-weight: bold;">Home</a></li>
+              <li class="breadcrumb-item active" ><a href="#/engage" style="text-decoration:none;color:#4c0c95;font-weight: bold;">Engagement Areas</a></li>
               <li class="breadcrumb-item active" aria-current="page" style="color:#4c0c95; font-weight: bold;">Research</li>
             </ol>
           </nav>  
@@ -73,6 +73,9 @@
         </a>
         <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="color:#4c0c95">
           <h6><router-link to="/engage" style="color:#4d4d4a; text-decoration: none;">Engagement Areas</router-link></h6>
+        </a>
+        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="color:#4c0c95">
+          <h6><router-link to="/syn" style="color:#4c0c95; text-decoration: none;">Synthesis Reflection</router-link></h6>
         </a>
         <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" style="color:#4c0c95">
           <h6><router-link to="/join" style="color:#4c0c95; text-decoration: none;">Join</router-link></h6>

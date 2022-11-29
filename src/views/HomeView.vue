@@ -154,6 +154,9 @@
         <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="color:#4c0c95">
           <h6><router-link to="/engage" style="color:#4c0c95; text-decoration: none;">Engagement Areas</router-link></h6>
         </a>
+        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false" style="color:#4c0c95">
+          <h6><router-link to="/syn" style="color:#4c0c95; text-decoration: none;">Synthesis Reflection</router-link></h6>
+        </a>
         <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false" style="color:#4c0c95">
           <h6><router-link to="/join" style="color:#4c0c95; text-decoration: none;">Join</router-link></h6>
         </a>
