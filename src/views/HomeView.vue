@@ -13,7 +13,7 @@
 
     
     <h2 style="color:#4c0c95; margin-top: 4rem;">General Information</h2>
-    <h6>If you have any general questions regarding Neeley Complete, please email neeleycomplete@tcu.edu or call (123) 456-7890. You can also give us a visit at [Enter address here].</h6>
+    <h6>If you have any general questions regarding Neeley Complete, please email one of Neeley Complete Student Assistants.</h6>
 
     <div class="staff">
       <h2 style="color:#4c0c95; margin-bottom: 2rem;">Staff</h2>
@@ -22,78 +22,32 @@
         <div class="card mb-3 border-0" style="max-width: 800px;">
           <div class="row no-gutters">
             <div class="col-md-4">
-              <img src="../assets/Sample-HS-1.jpg" class="card-img" alt="...">
+              <img src="../assets/STEPHANIE.jpg" class="card-img" alt="...">
             </div>
             <div class="col-md-8">
               <div class="card-body">
                 <h2 class="card-title">
-                  <a href="#" style="color:#4c0c95; text-decoration: none;">Name</a>
+                  <a href="#" style="color:#4c0c95; text-decoration: none;">Stephanie Waite</a>
                 </h2>
                 <h5 class="card-text" style="margin-top:2rem;" data-v-2c8b743a="">Associate Director</h5>
                 <h6 class="card-text" style="margin-top:0.5rem;font-weight:normal;" data-v-2c8b743a="">Career Services – Undergraduate</h6>
-                <h6 class="card-text" style="margin-top:2rem;font-weight:normal;">
-                  Address
+                <h6 class="card-text" style="margin-top:2rem;font-weight:normal; font-size: medium;">
+                  Neeley 2211J
                 </h6>
                 <h6 class="card-text" style="font-weight:normal;">
-                  <a href="#">123-456-7890</a>
+                  <a href="tel:817-257-5285" style="color:#4c0c95">817-257-5285</a>
                 </h6>
                 <h6 class="card-text" style="font-weight:normal;">
-                  <a href="#">email@tcu.edu</a>
+                  <p class="card-text"> Schedule an appointment via 
+                    <a href="https://tcu.joinhandshake.com/stu/appointments" style="color:#4c0c95">Handshake</a>
+                  </p>
                 </h6>
               </div>
             </div>
           </div>
         </div>
-      <div class="card mb-3 border-0" style="max-width: 800px;">
-          <div class="row no-gutters">
-            <div class="col-md-4">
-              <img src="../assets/Sample-HS-1.jpg" class="card-img" alt="...">
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h2 class="card-title">
-                  <a href="#" style="color:#4c0c95; text-decoration: none;">Name</a>
-                </h2>
-                <h5 class="card-text" style="margin-top:2rem;" data-v-2c8b743a="">Associate Director</h5>
-                <h6 class="card-text" style="margin-top:0.5rem;font-weight:normal;" data-v-2c8b743a="">Career Services – Undergraduate</h6>
-                <h6 class="card-text" style="margin-top:2rem;font-weight:normal;">
-                  Address
-                </h6>
-                <h6 class="card-text" style="font-weight:normal;">
-                  <a href="#">123-456-7890</a>
-                </h6>
-                <h6 class="card-text" style="font-weight:normal;">
-                  <a href="#">email@tcu.edu</a>
-                </h6>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="card mb-3 border-0" style="max-width: 800px;">
-          <div class="row no-gutters">
-            <div class="col-md-4">
-              <img src="../assets/Sample-HS-1.jpg" class="card-img" alt="...">
-            </div>
-            <div class="col-md-8">
-              <div class="card-body">
-                <h2 class="card-title">
-                  <a href="#" style="color:#4c0c95; text-decoration: none;">Name</a>
-                </h2>
-                <h5 class="card-text" style="margin-top:2rem;" data-v-2c8b743a="">Associate Director</h5>
-                <h6 class="card-text" style="margin-top:0.5rem;font-weight:normal;" data-v-2c8b743a="">Career Services – Undergraduate</h6>
-                <h6 class="card-text" style="margin-top:2rem;font-weight:normal;">
-                  Address
-                </h6>
-                <h6 class="card-text" style="font-weight:normal;">
-                  <a href="#">123-456-7890</a>
-                </h6>
-                <h6 class="card-text" style="font-weight:normal;">
-                  <a href="#">email@tcu.edu</a>
-                </h6>
-              </div>
-            </div>
-          </div>
-        </div>
+      
+        
       </div>
       </div>
 
@@ -106,11 +60,11 @@
             <div class="card-body">
               <h5 class="card-title">Ava Giesbrecht</h5>
               <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
-                <p style="margin-bottom:0rem">Peer Advisor</p>
-                <p>Major: Business</p>
+                <p style="margin-bottom:1rem">Neeley Complete Student Assistant</p>
+                <p>Major: Accounting and Finance</p>
               </p>
-              <p class="card-text"> Schedule an appointment via 
-                <a href="#" style="color:#fed277">Handshake</a>
+              <p class="card-text"> 
+                <a href="#" style="color:#fed277">ava.giesbrecht@tcu.edu</a>
               </p>
             </div>
           </div>
@@ -119,11 +73,11 @@
             <div class="card-body">
               <h5 class="card-title">Moss Mansell</h5>
               <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
-                <p style="margin-bottom:0rem">Peer Advisor</p>
-                <p>Major: Business</p>
+                <p style="margin-bottom:1rem">Neeley Complete Student Assistant</p>
+                <p>Major: Entrepreneurship</p>
               </p>
-              <p class="card-text"> Schedule an appointment via 
-                <a href="#" style="color:#fed277">Handshake</a>
+              <p class="card-text"> 
+                <a href="#" style="color:#fed277">m.mansell@tcu.edu</a>
               </p>
             </div>
           </div>
@@ -132,11 +86,11 @@
             <div class="card-body">
               <h5 class="card-title">Payton Cranford</h5>
               <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
-                <p style="margin-bottom:0rem">Peer Advisor</p>
-                <p>Major: Business</p>
+                <p style="margin-bottom:1rem">Neeley Complete Student Assistant</p>
+                <p>Major: Marketing</p>
               </p>
-              <p class="card-text"> Schedule an appointment via 
-                <a href="#" style="color:#fed277">Handshake</a>
+              <p class="card-text"> 
+                <a href="#" style="color:#fed277">payton.cranford@tcu.edu</a>
               </p>
             </div>
           </div>
