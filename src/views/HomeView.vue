@@ -13,8 +13,7 @@
 
     
     <h2 style="color:#4c0c95; margin-top: 4rem;">General Information</h2>
-    <h6>
-      If you have any general questions regarding Neeley Complete, please email one of Neeley Complete Student Assistants.
+    <h6>If you have any general questions regarding Neeley Complete, please email one of Neeley Complete Student Assistants.
     </h6>
 
     <div class="staff">
