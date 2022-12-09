@@ -146,6 +146,7 @@
             </div>
       </div>
     </div>
+    
   </div>
 
     <div class="col-md-auto" style="background-color:#c7c6c3; margin-left: 0;">
