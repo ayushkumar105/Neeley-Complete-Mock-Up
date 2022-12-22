@@ -164,139 +164,128 @@
     </template>
     
     
-    <script lang="js">
+<script lang="js">
+
+import AnimatedComponent from '@/components/AnimatedComponent.vue';
+export default {
+  name: "Syn",
+  components: {
+    AnimatedComponent
+  },
+  mounted() {
+    window.scrollTo(650, 650) // I'm text inside the component.
+  }      
+}
+
+</script>
+        
+<style scoped lang="scss">
+
+.tab {
+  display: inline-block;
+  margin-left: 40px;
+}
+.about{
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+.demo {
+  max-width: 600px;
+  border: 2px solid #2c3e50;
+  padding: 2rem;
+  margin: 2rem auto;
+  background-color: #42b983;
+}
+
+
+.accordion-button{
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: large;
+  border-block-color: purple;
+  border-color: purple;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
+}
+.container {
+  width: 80%;
+  min-width: 450px;
+  margin: 0 auto;
+}
+
+.fade-in {
+  background-color: #2ecc71;
+  height: 500px;
+  margin-bottom: 50px;
+  opacity: 0;
+  transition: 0.3s all ease-out;
+  transform: scale(0.8);
+  box-sizing: border-box;
+  padding: 20px;
+  display: inline-block;
+}
+.full-width{
+  width: 100%;
+}
+
+.half-width {
+  width: 47.5%;
+}
+
+.half-width:nth-of-type(2n + 1) {
+  margin-right: 2.5%;
+}
+
+.half-width:nth-of-type(2n) {
+  margin-left: 2.5%;
+}
+
+.description {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  p {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+  }
+}
+/*
+  This classes are for the directive. 
+  For each element observed by our directive, the before-enter class is added.
+*/
+.before-enter {
+  opacity: 0;
+  transform: translateY(100px);
+  transition: all 2s ease-out;
+}
+/* 
+  If the element intersects with the viewport, the before-enter class is added.
+*/
+.enter {
+  opacity: 1;
+  transform: translateY(0px);
+}
     
+#side_nav{
+  background: black;
+  margin-left: auto; 
+  margin-right: 0;
+}
+.content{
+  min-height: 100vh;
+  width: 100%;
+}
     
-    
-    import AnimatedComponent from '@/components/AnimatedComponent.vue';
-    export default {
-      name: "Syn",
-      components: {
-        AnimatedComponent
-      },
-      mounted() {
-    
-        window.scrollTo(650, 650) // I'm text inside the component.
-    
-      }
-      
-      
-    }
-    </script>
-    
-    
-    
-    
-    
-    <style scoped lang="scss">
-    .tab {
-            display: inline-block;
-            margin-left: 40px;
-        }
-    .about{
-      margin-left: 4rem;
-      margin-right: 4rem;
-    }
-    
-    .demo {
-      max-width: 600px;
-      border: 2px solid #2c3e50;
-      padding: 2rem;
-      margin: 2rem auto;
-      background-color: #42b983;
-    }
-    
-    
-    .accordion-button{
-      color: rgb(0, 0, 0);
-      background-color: rgb(255, 255, 255);
-      font-weight: bold;
-      font-size: large;
-      border-block-color: purple;
-      border-color: purple;
-    }
-    
-    .fade-enter-active, .fade-leave-active {
-      transition: opacity .5s;
-    }
-    
-    .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
-      opacity: 0;
-    }
-      .container {
-        width: 80%;
-        min-width: 450px;
-        margin: 0 auto;
-      }
-    
-      .fade-in {
-        background-color: #2ecc71;
-        height: 500px;
-        margin-bottom: 50px;
-        opacity: 0;
-        transition: 0.3s all ease-out;
-        transform: scale(0.8);
-        box-sizing: border-box;
-        padding: 20px;
-        display: inline-block;
-      }
-      .full-width{
-        width: 100%;
-      }
-    
-      .half-width {
-        width: 47.5%;
-      }
-    
-      .half-width:nth-of-type(2n + 1) {
-        margin-right: 2.5%;
-      }
-    
-      .half-width:nth-of-type(2n) {
-        margin-left: 2.5%;
-      }
-    
-      .description {
-        position: relative;
-        width: 100%;
-        min-height: 100vh;
-        p {
-          font-size: 1.2rem;
-          padding: 10px 20px;
-        }
-      }
-      /*
-        This classes are for the directive. 
-        For each element observed by our directive, the before-enter class is added.
-      */
-      .before-enter {
-        opacity: 0;
-        transform: translateY(100px);
-        transition: all 2s ease-out;
-      }
-      /* 
-        If the element intersects with the viewport, the before-enter class is added.
-      */
-      .enter {
-        opacity: 1;
-        transform: translateY(0px);
-      }
-    
-      #side_nav{
-        background: black;
-        margin-left: auto; 
-        margin-right: 0;
-      }
-      .content{
-        min-height: 100vh;
-        width: 100%;
-      }
-    
-      .row justify-content-md-center{
-        border: none;
-      }
-      
-     
-    
-    
-    </style> 
+.row justify-content-md-center{
+  border: none;
+}
+
+</style> 
