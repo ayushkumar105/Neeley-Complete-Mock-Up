@@ -112,7 +112,7 @@
           </div>
           <div class="card" style="width: 18rem; margin-top: 4rem;background-color:#c7c6c3;border: none;">
             <h2 class="card-title" style="margin-bottom:2rem; color: #4d4d4a;">Career Counseling Appointment</h2>
-            <img class="card-img-top" src="https://magazine.tcu.edu/wp-content/uploads/2020/05/TCU_ReeseBrown_06-500x333.jpg" alt="Card image cap">
+            <img class="card-img-top" src="https://www.neeley.tcu.edu/NeeleyMedia/Media/Graphics/Card%20Images/AlconCareerCenter-student-list.jpg?ext=.jpg" alt="Card image cap">
             <div class="card-body" style="margin-top:1rem">
               
               <p class="card-text" style="font-size:large; color: #4d4d4a;">

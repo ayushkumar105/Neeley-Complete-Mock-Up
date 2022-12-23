@@ -28,7 +28,7 @@
                 </p>
                 
                 <a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">
-                    <router-link to="/about" style="text-decoration:none;color:black">Learn more</router-link>
+                    <router-link to="/about" style="text-decoration:none;color:black" target="_blank">Learn more</router-link>
                     
                 </a>
             </div>
@@ -55,8 +55,7 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Competitions and National Conferences</h5>
                         <p class="card-text">Evolve professionally by networking, expanding your knowledge, presenting your ideas, and gaining new perspectives.</p>
-                        
-                        <router-link to="/comp" ><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;"> Compete</a></router-link>
+                        <a class="btn btn-warning btn-lg" href="#/comp" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;"> Compete</a>
                     </div>
                     </div>
                 </div>
@@ -74,7 +73,7 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Employer-based Work</h5>
                         <p class="card-text">Explore, engage, and develop through work that enables you to reach lifelong professional and personal success.</p>
-                        <router-link to="/emp" ><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Pursue</a></router-link>
+                        <a class="btn btn-warning btn-lg" href="#/emp" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Pursue</a>
                     </div>
                     </div>
                 </div>
@@ -93,8 +92,7 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Intercultural Education</h5>
                         <p class="card-text">Learn about cross-cultural competence and immerse in global competencies to create impactful interactions with the world around you.</p>
-                        <router-link to="/int" ><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Engage</a></router-link>
-                        
+                        <a class="btn btn-warning btn-lg" href="#/int" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Engage</a>                        
                     </div>
                     </div>
                 </div>
@@ -113,7 +111,7 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Leadership</h5>
                         <p class="card-text">Learn to use your unique strengths and skill sets to share passions and develop leadership skills.</p>
-                        <router-link to="/lead"><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Learn</a></router-link>
+                        <a class="btn btn-warning btn-lg" href="#/lead" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Learn</a>
                         
                     </div>
                     </div>
@@ -133,7 +131,7 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Research</h5>
                         <p class="card-text">Prepare for graduate school and apply knowledge in an environment outside the classroom​.</p>
-                        <router-link to="/research"><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Discover</a></router-link>
+                        <a class="btn btn-warning btn-lg" href="#/research" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Discover</a>
                         
                     </div>
                     </div>
@@ -153,7 +151,7 @@
                     <div class="card-body" >
                         <h5 class="card-title" >Service</h5>
                         <p class="card-text">Experience the unique environment and culture of serving others while connecting service opportunities with your own interests.</p>
-                        <router-link to="/serve"><a class="btn btn-warning btn-lg" href="#" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Serve</a></router-link>
+                        <a class="btn btn-warning btn-lg" href="#/serve" role="button" style="padding-top:0.5rem; margin-bottom: 2rem;font-weight: bold;">Serve</a>
                         
                     </div>
                     </div>

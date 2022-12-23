@@ -54,10 +54,9 @@
 
       <div class="sstaff">
         <h2 style="margin-bottom: 2rem;">Student Staff</h2>
-
         <div class="card-deck" style="display:flex; max-width: 1000px; margin-left: 2rem;">
           <div class="card" style="background-color:#6c757d; color: aliceblue;">
-            <img class="card-img-top" src="../assets/AVA1.jpg" alt="Card image cap">
+            <img class="card-img-top" src="../assets/PlaceH02.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Ava Giesbrecht</h5>
               <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
@@ -70,7 +69,52 @@
             </div>
           </div>
           <div class="card" style="background-color:#6c757d; color: aliceblue; margin-left: 4rem;">
-            <img class="card-img-top" src="../assets/MOSS2.jpg" alt="Card image cap">
+            <img class="card-img-top" src="../assets/PlaceH02.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Ayush Kumar</h5>
+              <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
+                <p style="margin-bottom:1rem">Neeley Complete Student Assistant</p>
+                <p>Major: Computer Science</p>
+              </p>
+              <p class="card-text"> 
+                <a href="#" style="color:#fed277">ayush.kumar@tcu.edu</a>
+              </p>
+            </div>
+          </div>
+          <div class="card" style="background-color:#6c757d; color: aliceblue; margin-left: 4rem;">
+            <img class="card-img-top" src="../assets/PlaceH02.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Haley Atkins</h5>
+              <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
+                <p style="margin-bottom:1rem">Neeley Complete Student Assistant</p>
+                <p>Major: Management and Psychology</p>
+              </p>
+              <p class="card-text"> 
+                <a href="#" style="color:#fed277">h.c.atkins@tcu.edu</a>
+              </p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      <div class="sstaff">
+        
+        <div class="card-deck" style="display:flex; max-width: 1000px; margin-left: 2rem; margin-top: 2rem;">
+          <div class="card" style="background-color:#6c757d; color: aliceblue;">
+            <img class="card-img-top" src="../assets/PlaceH02.jpg" alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Kaden Wayer</h5>
+              <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
+                <p style="margin-bottom:1rem">Neeley Complete Student Assistant</p>
+                <p>Major: Marketing</p>
+              </p>
+              <p class="card-text"> 
+                <a href="#" style="color:#fed277">kaden.wayer@tcu.edu</a>
+              </p>
+            </div>
+          </div>
+          <div class="card" style="background-color:#6c757d; color: aliceblue; margin-left: 4rem;">
+            <img class="card-img-top" src="../assets/PlaceH02.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Moss Mansell</h5>
               <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
@@ -83,7 +127,7 @@
             </div>
           </div>
           <div class="card" style="background-color:#6c757d; color: aliceblue; margin-left: 4rem;">
-            <img class="card-img-top" src="../assets/PAYTON1.jpg" alt="Card image cap">
+            <img class="card-img-top" src="../assets/PlaceH02.jpg" alt="Card image cap">
             <div class="card-body">
               <h5 class="card-title">Payton Cranford</h5>
               <p class="card-text" style="margin-top:2rem; margin-bottom:2rem">
@@ -95,6 +139,7 @@
               </p>
             </div>
           </div>
+          
         </div>
       </div>
         </div>

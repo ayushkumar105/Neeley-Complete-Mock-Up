@@ -24,6 +24,8 @@
         Students will fulfill all requirements for their areas of engagement, including their synthesis reflection project at least 8 weeks prior to their graduation date.
       </p>
     </div>
+    
+    <!-- Accordion -->
     <div class="accordion" id="accordionPanelsStayOpenExample">
       <div class="accordion-item">
         <h2 class="accordion-header" id="panelsStayOpen-headingOne">
@@ -31,7 +33,7 @@
             Competitions and National Conferences
           </button>
         </h2>
-        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
+        <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
           <div class="accordion-body">
             <p>
               The goal of the Competitions and National Conferences initiative of Neeley Complete is to present students with various opportunities to explore and engage in areas related to their prospective field and beyond. Through these experiences, students will have the ability to evolve professionally by networking, expanding their knowledge, presenting their ideas, and gaining new perspectives. 
@@ -68,7 +70,7 @@
         </div>
       </div>
     
-    <!-- Accordion -->
+    
     <div class="accordion-item">
       <h2 class="accordion-header" id="panelsStayOpen-headingThree">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
