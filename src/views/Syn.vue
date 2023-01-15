@@ -12,79 +12,115 @@
         </ol>
       </nav>  
           
-        <div class="intro" style="margin-left:2rem;margin-right: 1rem;">
-          <p style="color:#4c0c95;margin-top:1rem">
-            <h3 style="color:#4c0c95;margin-top:1rem">Synthesis Reflection Requirement</h3>
-          </p>
+      <div class="intro" style="margin-left:2rem;margin-right: 1rem;">
+        <p style="color:#4c0c95;margin-top:1rem">
+          <h3 style="color:#4c0c95;margin-top:1rem">Synthesis Reflection Requirement</h3>
+        </p>
+        <p style="color:#6c757d">
+          <h5 style="color:#6c757d">
+              Neeley Complete honors and recognizes students who engage intentionally within the Neeley, TCU, and Fort Worth communities. To confirm intentional engagement in 4 of the 6 qualifying Engagement Areas, participants must submit a Synthesis Reflection to showcase how they have grown personally and professionally through their engagements.            </h5>
+        </p>
+        <p style="color:#4c0c95;margin-top:1rem">
+          <h3 style="color:#4c0c95;margin-top:1rem">What is a Synthesis Reflection?</h3>
+        </p>
+        <p style="color:#6c757d">
+          <h5 style="color:#6c757d">
+              “We do not learn from experience. We learn from reflecting on experience.” - John Dewey 
+              Engagement in new experiences exposes us to new ways of thinking. However, it is difficult to retain all of these new learnings without intentional reflection. Reflection after experiences helps build new perspective and understanding of a topic and of the world. Written reflection, and creative projects, help document learnings tangibly as well as cognitively so that new understandings and insights can impact future decisions in positive and generative ways.
+              By responding to guided reflective questions and representing your experiences and new perspectives in a creative visual medium, Neeley Complete participants can obtain a deeper appreciation and understanding of how their engagements have shaped them in personal and professional ways. Below are the components for the Neeley Complete Synthesis Reflection.
+          </h5>
+        </p>
+        <p style="color:#4c0c95;margin-top:1rem">
+          <h3 style="color:#4c0c95;margin-top:1rem">Synthesis Reflection Components</h3>
+          <h5 style="color:#6c757d">The Neeley Complete Synthesis Reflection must contain the following elements:</h5>
+        </p>
+
+        <!--Accordion-->
+        <div class="accordion" id="accordionPanelsStayOpenExample">
+          <div class="accordion-item">
+              <h2 class="accordion-header" id="panelsStayOpen-headingOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                  WRITE
+                </button>
+              </h2>
+              <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingOne">
+                <div class="accordion-body">
+                  <h5>
+                    <p  style="color:#6c757d">
+                      Provide a 350-400-word description for each of your Engagement Areas, responding to each of these questions:
+                    </p>
+                    <ol class="tab">
+                      <li>Name of Engagement Area</li>
+                      <li>In a matter-of-fact way, describe what you did to complete the Engagement Area. Provide details on who you engaged with (organization, people, etc.), where you were located, and the content you focused on.</li>
+                      <li>How did this experience help you grow on a personal level?</li>
+                      <li>How did this experience help you grow on a professional level?</li>
+                      <li>In a few sentences, thank or recognize any programs or mentors that were particularly helpful as you navigated your Engagement Areas.</li>
+                    </ol>
+                  </h5>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                  CREATE
+                </button>
+              </h2>
+              <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+                <div class="accordion-body">
+                  <h5>
+                    <p style="color:#6c757d">
+                      Represent your learnings in a medium which resonates with you and will help you capture your growth from this experience. Choose from the options below, or develop your own method of delivery based on your interests:
+                    </p>
+                    <ol class="tab">
+                      <li>Deliver a 'Frog Talk' or TedTalk</li>
+                      <li>Create a documentary</li>
+                      <li>Write a song, poem, or essay</li>
+                      <li>Develop a corporate presentation</li>
+                      <li>Create a photo collection, art installation, or collage </li>
+                      <li>Prototype a children's book</li>
+                      <li>Build your own time capsule</li>
+                    </ol>
+                  </h5>
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
+                  SUBMIT
+                </button>
+              </h2>
+              <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+                <div class="accordion-body">
+                  <h5>
+                    <p>
+                      Upload your completed Synthesis Reflection (written component + creative component) to Stephanie Waite: stephanie.waite@tcu.edu. Once you submit your Synthesis Reflection, you'll receive a confirmation email withing 2-3 business days. The Neeley Complete Synthesis Reflection Review Committee will evaluate and score your project within 2-3 weeks of receiving it. See details below on evaluation criteria.                      
+                    </p>
+                  </h5>
+                </div>
+              </div>
+            </div>
+          </div>
+        
+        <p style="color:#6c757d; margin-top: 3rem;">
+          <h3 style="color:#4c0c95;margin-top:1rem">How your Synthesis Reflection will be Evaluated </h3>
           <p style="color:#6c757d">
             <h5 style="color:#6c757d">
-                Neeley Complete honors and recognizes students who engage intentionally within the Neeley, TCU, and Fort Worth communities. To confirm intentional engagement in 4 of the 6 qualifying Engagement Areas, participants must submit a Synthesis Reflection to showcase how they have grown personally and professionally through their engagements.            </h5>
-          </p>
-          <p style="color:#4c0c95;margin-top:1rem">
-            <h3 style="color:#4c0c95;margin-top:1rem">What is a Synthesis Reflection?</h3>
-          </p>
-          <p style="color:#6c757d">
-            <h5 style="color:#6c757d">
-                “We do not learn from experience. We learn from reflecting on experience.” - John Dewey 
-                Engagement in new experiences exposes us to new ways of thinking. However, it is difficult to retain all of these new learnings without intentional reflection. Reflection after experiences helps build new perspective and understanding of a topic and of the world. Written reflection, and creative projects, help document learnings tangibly as well as cognitively so that new understandings and insights can impact future decisions in positive and generative ways.
-                By responding to guided reflective questions and representing your experiences and new perspectives in a creative visual medium, Neeley Complete participants can obtain a deeper appreciation and understanding of how their engagements have shaped them in personal and professional ways. Below are the components for the Neeley Complete Synthesis Reflection.
+              To fulfill the Neeley Complete Synthesis Reflection requirement, you must earn 8 points from the Synthesis Reflection Review Committee. Points are earned in the following ways:
             </h5>
-          </p>
-          <p style="color:#4c0c95;margin-top:1rem">
-            <h3 style="color:#4c0c95;margin-top:1rem">Synthesis Reflection Components</h3>
-          </p>
-          <p style="color:#6c757d">
-            <h5 style="color:#6c757d">
-                The Neeley Complete Synthesis Reflection must contain the following elements:
-                <ol class="tab">
-                    <li>
-                        WRITE: Provide a 350-400-word description for each of your Engagement Areas, responding to each of these questions:
-                        <ol class="tab" type="a">
-                            <li>Name of Engagement Area</li>
-                            <li>In a matter-of-fact way, describe what you did to complete the Engagement Area. Provide details on who you engaged with (organization, people, etc.), where you were located, and the content you focused on.</li>
-                            <li>How did this experience help you grow on a personal level?</li>
-                            <li>How did this experience help you grow on a professional level?</li>
-                            <li>In a few sentences, thank or recognize any programs or mentors that were particularly helpful as you navigated your Engagement Areas.</li>
-                        </ol>
-                    </li>
-                    <li>
-                      CREATE: Represent your learnings in a medium which resonates with you and will help you capture your growth from this experience. Choose from the options below, or develop your own method of delivery based on your interests:
-                        <ol type="a" style="display: inline-block; margin-left: 1px;">
-                            <li>Deliver a 'Frog Talk' or TedTalk</li>
-                            <li>Create a documentary</li>
-                            <li>Write a song, poem, or essay</li>
-                            <li>Develop a corporate presentation</li>
-                            <li>Create a photo collection, art installation, or collage </li>
-                            <li>Prototype a children's book</li>
-                            <li>Build your own time capsule</li>
-                        </ol>
-                    </li>
-                    <li>
-                      SUBMIT: Upload your completed Synthesis Reflection (written component + creative component) to Stephanie Waite: stephanie.waite@tcu.edu. Once you submit your Synthesis Reflection, you'll receive a confirmation email withing 2-3 business days. The Neeley Complete Synthesis Reflection Review Committee will evaluate and score your project within 2-3 weeks of receiving it. See details below on evaluation criteria.
-                    </li>
-                </ol>           
+          </p>  
+          <ul class="tab" style="font-size:large; color:#6c757d">
+            <h5>
+              <li>Description of each Engagement Area is clear and robust - 3 pts</li>
+              <li>Accompanying content/material supports the written portions of the reflection in generative ways - 3 pts</li>
+              <li>Editing - the written portions meet basic college-level writing standards - 2 pts</li>
+              <li>Committee's Reaction to the quality and thoughtfulness of the Synthesis Reflection - 2 pts</li>
             </h5>
-          </p>
-          
-          <p style="color:#6c757d; margin-top: 3rem;">
-            <h3 style="color:#4c0c95;margin-top:1rem">How your Synthesis Reflection will be Evaluated </h3>
-            <p style="color:#6c757d">
-              <h5 style="color:#6c757d">
-                To fulfill the Neeley Complete Synthesis Reflection requirement, you must earn 8 points from the Synthesis Reflection Review Committee. Points are earned in the following ways:
-              </h5>
-            </p>  
-              <ul class="tab" style="font-size:large; color:#6c757d">
-                <h5>
-                  <li>Description of each Engagement Area is clear and robust - 3 pts</li>
-                  <li>Accompanying content/material supports the written portions of the reflection in generative ways - 3 pts</li>
-                  <li>Editing - the written portions meet basic college-level writing standards - 2 pts</li>
-                  <li>Committee's Reaction to the quality and thoughtfulness of the Synthesis Reflection - 2 pts</li>
-                </h5>
-                
-              </ul>
-          </p>
-        </div>
+          </ul>
+        </p>
       </div>
+    </div>
     
     
        
